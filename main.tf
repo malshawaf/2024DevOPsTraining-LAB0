@@ -12,6 +12,7 @@ subnet_id = "subnet-0d9cdcc8381d5dca2"
 tags = {
 
 Name = "Dolfined_Demo"
+Env = "Dev"
 }
 }
 
